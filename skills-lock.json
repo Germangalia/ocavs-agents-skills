@@ -4,61 +4,61 @@
     "ocavs-registration-missions": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocavs-registration-missions/SKILL.md",
+      "skillPath": "skills/ocavs-registration-missions/SKILL.md",
       "computedHash": "e047b4c3a7824c89f6a205700687edcbac4fb8267a2bc2f3ef13918d6cd7aeef"
     },
     "ocavs-safety-environment": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocavs-safety-environment/SKILL.md",
+      "skillPath": "skills/ocavs-safety-environment/SKILL.md",
       "computedHash": "c41eeb5c69c8a76a2c8da71efd0fdc1f40a1786eb10eb2f288ea4ff99f1155a3"
     },
     "ocavs-supervision-telemetry": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocavs-supervision-telemetry/SKILL.md",
+      "skillPath": "skills/ocavs-supervision-telemetry/SKILL.md",
       "computedHash": "d05ba3f58b5b1762c1f4d6570791aa7604d4cb2790011f16e841d6827ac2d786"
     },
     "ocavs-vehicle-operations": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocavs-vehicle-operations/SKILL.md",
+      "skillPath": "skills/ocavs-vehicle-operations/SKILL.md",
       "computedHash": "1463592ee2be651275f82f84ba52490229fa3defdda94428009b6e2aa193a1fe"
     },
     "ocva-conformance": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocva-conformance/SKILL.md",
+      "skillPath": "skills/ocva-conformance/SKILL.md",
       "computedHash": "4c849a0da9874404c6eaca08a9736d525fff6ca1c73b45f97b8980bb94d0f3ea"
     },
     "ocva-data-types": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocva-data-types/SKILL.md",
+      "skillPath": "skills/ocva-data-types/SKILL.md",
       "computedHash": "573aa025a6c07689b3c3d7024f56da267e9f714e629ff8abd9cebdd075751b23"
     },
     "ocva-foundation": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocva-foundation/SKILL.md",
+      "skillPath": "skills/ocva-foundation/SKILL.md",
       "computedHash": "d80ec2c892890c0b29ff9dec08de24c32b0adf5ab11b4032791f8e23a1204eab"
     },
     "ocva-message-semantics": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocva-message-semantics/SKILL.md",
+      "skillPath": "skills/ocva-message-semantics/SKILL.md",
       "computedHash": "18747239847d7cd1023dc035cddf88906ba80fbef0aaf329c5b6bba2e5590532"
     },
     "ocva-security-privacy": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocva-security-privacy/SKILL.md",
+      "skillPath": "skills/ocva-security-privacy/SKILL.md",
       "computedHash": "bc0e84b52ccc39e7b49410282054afb00f5ec53ad6a1ebfa244d354987a5955c"
     },
     "ocva-spec-authoring": {
       "source": "Germangalia/ocavs-agents-skills",
       "sourceType": "github",
-      "skillPath": ".agents/skills/ocva-spec-authoring/SKILL.md",
+      "skillPath": "skills/ocva-spec-authoring/SKILL.md",
       "computedHash": "f1ca15c594aa08916dc56a01087639b6250a03d82809df85365da4bdab9c01db"
     }
   }
